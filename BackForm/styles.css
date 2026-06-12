@@ -1,0 +1,17 @@
+main {
+    background-color: rgb(78, 65, 90);
+}
+h1 {
+    color: aliceblue;
+}
+input, textarea, select {
+    background-color: rgb(133, 122, 142);
+    color: aliceblue;
+}
+label {
+    color: aqua;
+}
+button {
+    background-color: blueviolet;
+    color: aliceblue;
+}
